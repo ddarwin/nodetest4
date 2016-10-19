@@ -1,8 +1,8 @@
 {
   "dbConfig": {
-    "host": "localhost",
-    "port": "27017",
-    "db": "nodetest2"
+    "host": "ddarwin:evan0329@ds049456.mlab.com",
+    "port": "49456",
+    "db": "CloudFoundry_g3lerf44_smen54em"
   },
   "apiConfig": {
     "user": "http://localhost:3000/api/"
